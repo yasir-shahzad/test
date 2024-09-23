@@ -5,6 +5,7 @@ Just testing some random stuff via GitHub Actions
 
 ![Hit Counter](https://visitor-badge.laobi.icu/badge?page_id=yasir-shahzad_SoftI2C)
 
+![Hit Counter](https://visitor-badge.laobi.icu/badge?page_id=yasir-shahzad_Digispark-ATTINY85)
 
 
 
